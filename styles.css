@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+select {
+  height: 500px;
+}
+
+.active {
+  border: 2px blue solid;
+  background-color: cyan;
+}
+
+.not-active {
+  border: 2px solid transparent;
+}
